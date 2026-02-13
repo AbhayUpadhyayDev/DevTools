@@ -3,7 +3,7 @@
 
 [![NuGet](https://img.shields.io/nuget/v/DevTools.svg)](https://www.nuget.org/packages/DevUtilsTools)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/stargazers)&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/network/members)&nbsp;s
+[![GitHub forks](https://img.shields.io/github/forks/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/network/members)&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/AbhayUpadhyayDev/DevTools)](https://github.com/AbhayUpadhyayDev/DevTools/issues)&nbsp;
 [![GitHub license](https://img.shields.io/github/license/AbhayUpadhyayDev/DevTools)](https://github.com/AbhayUpadhyayDev/DevTools/blob/main/LICENSE)&nbsp;
 
