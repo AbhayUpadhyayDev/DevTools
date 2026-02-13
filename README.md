@@ -1,9 +1,12 @@
 ﻿
 # DevTools
 
-[![NuGet Version](https://img.shields.io/nuget/v/DevTools.svg)](https://www.nuget.org/packages/DevTools)  
-[![License](https://img.shields.io/github/license/AbhayUpadhyayDev/DevTools)](LICENSE)  
-[![Build Status](https://img.shields.io/github/workflow/status/AbhayUpadhyayDev/DevTools/CI)](https://github.com/AbhayUpadhyayDev/DevTools/actions)
+[![NuGet](https://img.shields.io/nuget/v/DevTools.svg)](https://www.nuget.org/packages/DevTools)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/stargazers)&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/network/members)&nbsp;s
+[![GitHub issues](https://img.shields.io/github/issues/AbhayUpadhyayDev/DevTools)](https://github.com/AbhayUpadhyayDev/DevTools/issues)&nbsp;
+[![GitHub license](https://img.shields.io/github/license/AbhayUpadhyayDev/DevTools)](https://github.com/AbhayUpadhyayDev/DevTools/blob/main/LICENSE)&nbsp;
+
 
 **DevTools** is a **lightweight, all-in-one C# utility library** that makes everyday development tasks faster and simpler. It combines **50+ methods per utility class** for string manipulation, dates, math, collections, file I/O, randomization, URLs, JSON, reflection, processes, crypto, validation, and more—all in a single package.
 
