@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>DevTools</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Abhay Upadhyay</Authors>
+		<Company>AbhayUpadhyayDev</Company>
+		<Product>DevTools</Product>
+		<Description>A lightweight all-in-one C# utility library with 600+ methods across 20+ utility classes.</Description>
+		<PackageTags>utilities;devtools;csharp;helpers</PackageTags>
+		<RepositoryUrl>https://github.com/AbhayUpadhyayDev/DevTools</RepositoryUrl>
+		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	</PropertyGroup>
+
+</Project>
