@@ -1,7 +1,7 @@
 ﻿
 # DevTools
 
-[![NuGet](https://img.shields.io/nuget/v/DevTools.svg)](https://www.nuget.org/packages/DevTools)&nbsp;
+[![NuGet](https://img.shields.io/nuget/v/DevTools.svg)](https://www.nuget.org/packages/DevUtilsTools)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/stargazers)&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/AbhayUpadhyayDev/DevTools?style=social)](https://github.com/AbhayUpadhyayDev/DevTools/network/members)&nbsp;s
 [![GitHub issues](https://img.shields.io/github/issues/AbhayUpadhyayDev/DevTools)](https://github.com/AbhayUpadhyayDev/DevTools/issues)&nbsp;
@@ -72,13 +72,13 @@
 Install via **NuGet**:
 
 ```bash
-Install-Package DevTools
+Install-Package DevUtilsTools
 ````
 
 Or via **.NET CLI**:
 
 ```bash
-dotnet add package DevTools
+dotnet add package DevUtilsTools
 ```
 
 ---
